@@ -1,0 +1,29 @@
+{
+  "name": "hubot-quest",
+  "version": "0.0.1",
+  "description": "Hubot Quest",
+  "main": "src/index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ideyuta/hubot-quest.git"
+  },
+  "keywords": [
+    "hubot",
+    "hubot-scripts",
+    "quest"
+  ],
+  "author": "ideyuta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ideyuta/hubot-quest/issues"
+  },
+  "homepage": "https://github.com/ideyuta/hubot-quest",
+  "devDependencies": {
+    "hubot": "^2.8.0",
+    "hubot-slack": "~2.1.1",
+    "hubot-hipchat": "~2.7.5"
+  }
+}
